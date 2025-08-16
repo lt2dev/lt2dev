@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/lt2dev.props" />
+</Project>
