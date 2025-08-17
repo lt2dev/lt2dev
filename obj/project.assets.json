@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/lt2dev/lt2dev/lt2dev.csproj",
+      "projectUniqueName": "/workspaces/lt2dev/lt2dev.csproj",
       "projectName": "lt2dev",
-      "projectPath": "/workspaces/lt2dev/lt2dev/lt2dev.csproj",
+      "projectPath": "/workspaces/lt2dev/lt2dev.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/lt2dev/lt2dev/obj/",
+      "outputPath": "/workspaces/lt2dev/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
