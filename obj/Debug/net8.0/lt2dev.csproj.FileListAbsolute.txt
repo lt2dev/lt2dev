@@ -29,3 +29,4 @@
 /workspaces/lt2dev/obj/Debug/net8.0/lt2dev.pdb
 /workspaces/lt2dev/obj/Debug/net8.0/lt2dev.genruntimeconfig.cache
 /workspaces/lt2dev/obj/Debug/net8.0/ref/lt2dev.dll
+/workspaces/lt2dev/bin/Debug/net8.0/libman.json
